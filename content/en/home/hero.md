@@ -22,6 +22,6 @@ hero_media = "/img/portrait.webp"
 
 +++
 
-# My name is **Sponge Bob** and I'm a **chief cook**.
+# My name is **Rohan Rakshit** and I'm a **Data scientist**.
 
 All my dishes are made with love
